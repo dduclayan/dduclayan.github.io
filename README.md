@@ -1,2 +1,2 @@
 # dduclayan.github.io
-my website
+VCS for my website http://duclayan.com
